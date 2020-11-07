@@ -4,7 +4,7 @@
     float: left;
     width:35%;
     height: 100vh;
-    overflow-x: auto;
+    overflow-y: auto;
     white-space: nowrap;
     position: sticky;
     position: -webkit-sticky;
@@ -18,7 +18,7 @@
   float: right;
   width:65%;
   height: 100vh;
-  overflow-x: auto;
+  overflow-y: auto;
   white-space: nowrap;
   top: 0;
   background-color: lightgoldenrodyellow;
