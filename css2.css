@@ -1,0 +1,36 @@
+
+.h1{
+    color: black;
+    background-color: aqua;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    font-style: italic;
+    font-size: 25px;
+
+}
+.u1{
+    color: red;
+    font-size: 20px;
+}
+.u11{
+    color: green;
+    font-size: 20px;
+}
+.i{
+    width: 25%;
+    height: 25%;
+}
+.h2{
+    color: black;
+    background-color: yellowgreen;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    font-size: 35px;
+
+}
+.u2{
+    color: khaki;
+    font-size: 20px;
+}
