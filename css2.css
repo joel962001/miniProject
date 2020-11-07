@@ -1,0 +1,45 @@
+
+.h1{
+    color: black;
+    background-color: aqua;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    font-style: italic;
+    font-size: 25px;
+
+}
+.u1{
+    color: red;
+    font-size: 20px;
+}
+.u11{
+    color: chartreuse;
+    font-size: 20px;
+}
+.i{
+    width: 35%;
+    height: 35%;
+}
+.h2{
+    color: black;
+    background-color: yellowgreen;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    font-size: 35px;
+
+}
+.u2{
+    color: khaki;
+    font-size: 20px;
+}
+.b{
+    text-align: center;
+}
+.btn{
+    font-size: 20px;
+    background-color: indianred;
+    color: black;
+
+}
